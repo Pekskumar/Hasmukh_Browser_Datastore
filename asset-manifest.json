@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hasmukh_Browser_Datastore/static/css/main.d400a4d6.css",
+    "main.js": "/Hasmukh_Browser_Datastore/static/js/main.d4f8c30e.js",
+    "static/js/787.c334fc8d.chunk.js": "/Hasmukh_Browser_Datastore/static/js/787.c334fc8d.chunk.js",
+    "index.html": "/Hasmukh_Browser_Datastore/index.html",
+    "main.d400a4d6.css.map": "/Hasmukh_Browser_Datastore/static/css/main.d400a4d6.css.map",
+    "main.d4f8c30e.js.map": "/Hasmukh_Browser_Datastore/static/js/main.d4f8c30e.js.map",
+    "787.c334fc8d.chunk.js.map": "/Hasmukh_Browser_Datastore/static/js/787.c334fc8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d400a4d6.css",
+    "static/js/main.d4f8c30e.js"
+  ]
+}
